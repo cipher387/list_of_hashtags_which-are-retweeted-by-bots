@@ -1,4 +1,16 @@
 This repo is archived. See the current list at https://cipher387.github.io/osint_stuff_tool_collection/hashtag_list.html
+<hr>
 
+Twitter — https://twitter.com/cyb_detective
 
-<a target="_blank" href="https://twitter.com/Ivan30394639" title="My Twitter"><img src="https://img.shields.io/badge/-@ivan30394639-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ivan30394639"></a>
+Telegram — https://t.me/cybdetective
+
+Linkedin — https://www.linkedin.com/groups/1908171/
+
+Revue — https://www.getrevue.co/profile/cyb_detective
+
+Github — https://github.com/cipher387
+
+Discord — every week I post a fresh invite on Twitter. You can find it by searching for "discord from:cyb_detective"
+
+<hr>
